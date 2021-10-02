@@ -1,0 +1,30 @@
+.Conteiner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  padding: 5px;
+  background-color: rgb(99, 99, 99);
+}
+
+.Dados {
+  display: flex;
+  flex-direction: column;
+  width: 300px;  
+  margin: 0;
+}
+
+.Form {
+  display: flex;
+  width: 100%;  
+  justify-content: space-between;  
+}
+
+.Input {
+  width: 80px;
+}
+
+.Resultado {
+  font-size: 18px;
+}

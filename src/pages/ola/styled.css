@@ -1,0 +1,9 @@
+.Principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    padding: 5px;
+    background-color: rgb(99, 99, 99);  
+}
